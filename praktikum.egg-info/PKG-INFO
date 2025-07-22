@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: praktikum
+Version: 1.0
+Requires-Dist: pytest
+Requires-Dist: pytest-cov
+Dynamic: requires-dist
